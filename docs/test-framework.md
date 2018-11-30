@@ -2,11 +2,11 @@
 
 Get the source and place it into a host-volume folder for mounting it into the container.
 
-    git clone https://github.com/yiisoft/yii2 _host-volumes/yii2
+    git clone https://github.com/o2system/o2system _host-volumes/o2system
     
 Enter the container with 
 
-    docker-compose run --rm -w /yii2 php bash    
+    docker-compose run --rm -w /o2system php bash    
 
 Go into the container and install packages
 
