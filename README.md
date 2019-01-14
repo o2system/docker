@@ -1,4 +1,8 @@
+[![Build Status](https://travis-ci.org/o2system/docker.svg?branch=master)](https://travis-ci.org/o2system/docker)
 
+![](https://img.shields.io/github/license/o2system/docker.svg)
+
+[![](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/o2system/docker)
 ## About
 
 These Docker images are built on top of the official PHP Docker image, they contain additional PHP extensions required to run O2System framework, but no code of the framework itself.
@@ -42,3 +46,6 @@ If you are using macOS, you can fill `xdebug.remote_host` with `host.docker.inte
 More information can be found in the [docs](/docs) folder.
 
      
+Awesome contributors:
+
+<a href="http://o2system.id/contributing"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome"></a>
