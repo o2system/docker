@@ -1,8 +1,9 @@
 [![Build Status](https://travis-ci.org/o2system/docker.svg?branch=master)](https://travis-ci.org/o2system/docker)
 
-![](https://img.shields.io/github/license/o2system/docker.svg)
+[![License](https://img.shields.io/github/license/o2system/docker.svg)](https://img.shields.io/github/license/o2system/docker.svg)
 
-[![](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/o2system/docker)
+[![Issue](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/o2system/docker)
+
 ## About
 
 These Docker images are built on top of the official PHP Docker image, they contain additional PHP extensions required to run O2System framework, but no code of the framework itself.
