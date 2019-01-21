@@ -1,8 +1,16 @@
+<div align="center" markdown="1">
+
+[![O2System Framework](https://o2system.id/assets/img/logo/logo-200px.png?logo)](http://o2system.id)
+</div>
+
+<div align="center" markdown="1">
+
 [![Build Status](https://travis-ci.org/o2system/docker.svg?branch=master)](https://travis-ci.org/o2system/docker)
-
 [![License](https://img.shields.io/github/license/o2system/docker.svg)](https://img.shields.io/github/license/o2system/docker.svg)
+[![Issues](https://img.shields.io/github/issues/o2system/docker.svg)](https://github.com/o2system/docker)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://o2system.id/docker/contributing)
 
-[![Issue](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/o2system/docker)
+</div>
 
 ## About
 
@@ -42,11 +50,7 @@ If you are using macOS, you can fill `xdebug.remote_host` with `host.docker.inte
     ### (macOS) configuration
     xdebug.remote_host=host.docker.internal
 
-## Documentation
 
-More information can be found in the [docs](/docs) folder.
-
-     
 Awesome contributors:
 
 <a href="http://o2system.id/contributing"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome"></a>
